@@ -1,0 +1,152 @@
+[
+{
+    "contactId":"1",
+    "firstname": "Pooja",
+    "middlename": "Amol",
+    "lastname": "Doifode",
+    "addresses": [
+        {
+            
+            "typeofaddress": "Work",
+            "streetaddress": "bhgawan baba nagar",
+            "city": "deulgaonraja",
+            "state": "Mharashtra",
+            "zipcode": 443204
+        },
+        {
+           
+            "typeofaddress": "Home",
+            "streetaddress": "universal residency",
+            "city": "pune",
+            "state": "Mharashtra",
+            "zipcode": 411058
+        }
+    ],
+    "phoneNumbers": [
+        {
+         
+            "typeOfNumber": "Home",
+            "areaCode": 91,
+            "pnumber": 9834504961
+        },
+        {
+            
+            "typeOfNumber": "Work",
+            "areaCode": 91,
+            "pnumber": 9834175014
+        }
+    ],
+    "dates": [
+        {
+         
+            "typeOfDate": "Bday",
+            "calenderDate": "22-10-1997"
+        },
+        {
+           
+            "typeOfDate": "Aday",
+            "calenderDate": "31-03-1994"
+        }
+    ]
+},
+{
+    "contactId":"2",
+    "firstname": "Pooja2",
+    "middlename": "Amol2",
+    "lastname": "Doifode2",
+    "addresses": [
+        {
+            
+            "typeofaddress": "Work",
+            "streetaddress": "bhgawan baba nagar",
+            "city": "deulgaonraja",
+            "state": "Mharashtra",
+            "zipcode": 443204
+        },
+        {
+           
+            "typeofaddress": "Home",
+            "streetaddress": "universal residency",
+            "city": "pune",
+            "state": "Mharashtra",
+            "zipcode": 411058
+        }
+    ],
+    "phoneNumbers": [
+        {
+         
+            "typeOfNumber": "Home",
+            "areaCode": 91,
+            "pnumber": 9834504961
+        },
+        {
+            
+            "typeOfNumber": "Work",
+            "areaCode": 91,
+            "pnumber": 9834175014
+        }
+    ],
+    "dates": [
+        {
+         
+            "typeOfDate": "Bday",
+            "calenderDate": "22-10-1997"
+        },
+        {
+           
+            "typeOfDate": "Aday",
+            "calenderDate": "31-03-1994"
+        }
+    ]
+},
+{
+    "contactId":"3",
+    "firstname": "Pooja3",
+    "middlename": "Amol3",
+    "lastname": "Doifode3",
+    "addresses": [
+        {
+            
+            "typeofaddress": "Work",
+            "streetaddress": "bhgawan baba nagar",
+            "city": "deulgaonraja",
+            "state": "Mharashtra",
+            "zipcode": 443204
+        },
+        {
+           
+            "typeofaddress": "Home",
+            "streetaddress": "universal residency",
+            "city": "pune",
+            "state": "Mharashtra",
+            "zipcode": 411058
+        }
+    ],
+    "phoneNumbers": [
+        {
+         
+            "typeOfNumber": "Home",
+            "areaCode": 91,
+            "pnumber": 9834504961
+        },
+        {
+            
+            "typeOfNumber": "Work",
+            "areaCode": 91,
+            "pnumber": 9834175014
+        }
+    ],
+    "dates": [
+        {
+         
+            "typeOfDate": "Bday",
+            "calenderDate": "22-10-1997"
+        },
+        {
+           
+            "typeOfDate": "Aday",
+            "calenderDate": "31-03-1994"
+        }
+    ]
+}
+]
